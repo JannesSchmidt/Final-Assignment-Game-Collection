@@ -12,6 +12,7 @@ from MiniGames.Retro_Game import start_retro_game
 from MiniGames.slot import SlotGame
 
 # I recommend changing the DEBUG mode at least once, since I added extra music with it.
+
 DEBUG = False  # False is the standard. True = Admin Mode for fast testing, with new music.
 
 SCOREBOARD_FILE = "scoreboard.json"
