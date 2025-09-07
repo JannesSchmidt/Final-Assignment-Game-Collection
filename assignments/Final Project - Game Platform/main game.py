@@ -11,8 +11,9 @@ from MiniGames.Ascii_Art import AsciiArtGame
 from MiniGames.Retro_Game import start_retro_game
 from MiniGames.slot import SlotGame
 
+# I recommend changing the DEBUG mode at least once, since I added extra music with it.
 
-DEBUG = True  # False is the standard. True = Admin Mode for fast testing, with new music.
+DEBUG = False  # False is the standard. True = Admin Mode for fast testing, with new music.
 
 SCOREBOARD_FILE = "scoreboard.json"
 
@@ -390,7 +391,7 @@ def start_slot():
 
 menu_buttons = [
     Button("Quiz", WIDTH // 2 - 75, 300, 150, 40, start_quiz, text_color=WHITE, color=BLUE),
-    Button("Gamble", WIDTH // 2 - 75, 360, 150, 40, start_gamble, text_color=WHITE, color=BLUE),
+    Button("Heads or Tails", WIDTH // 2 - 75, 360, 150, 40, start_gamble, text_color=WHITE, color=BLUE),
     Button("ASCII-Art", WIDTH // 2 - 75, 420, 150, 40, start_ascii, text_color=WHITE, color=BLUE),
     Button("Retro Game", WIDTH // 2 - 75, 480, 150, 40, start_retro, text_color=WHITE, color=BLUE),
     Button("Slot Machine", WIDTH // 2 - 75, 540, 150, 40, start_slot, text_color=WHITE, color=BLUE),
@@ -574,5 +575,11 @@ sys.exit()
 # End of the Game/Code
 
 # Credits:
-#*1
-#*2
+#*1 https://youtu.be/ErVvBE9TEFk?si=elFJA2tFj4tlK5Ym and https://youtu.be/-51jxlQaxyA?si=vqE7TmDxu33hcqzT
+#*2 https://youtu.be/x1eaT88vJUA?si=1Qe0A--2YcGpm-nZ and https://youtu.be/n4E7of9BINo?si=8xbHDRBcT1yPYaRu
+
+# AI:
+# I used AI to create the backgrounds for the Quiz, Menu and Coind game.
+# I used AI to find me videos fitting for my goal of creating the loading bar and scoreboard
+# I used AI at the end with the following prompt: "Please check the structure of the code. You may improve the structure to make it easier to navigate through.
+# Keep in mind that you don't change anyting but the structure. If you find a line of code that should really be improved send me the line with a reason, don't touch it."
