@@ -572,6 +572,7 @@ while running:
 pygame.quit()
 sys.exit()
 # End of the Game/Code
+
 # Credits:
 #*1
 #*2
