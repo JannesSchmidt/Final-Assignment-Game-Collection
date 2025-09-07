@@ -1,7 +1,0 @@
-print('Boy shows his father stinky fish for Xmas:')
-print('            *                          _W_         *   /   \\  *      ')
-print('  *   _~_ *       *         *      *  (O_O) *   *     /     \\ ' )
-print('     ( ^-^)            *            /(   o   )\\\\     /_______\\   *   ')
-print('*  /(   x   )\\\\  *     ( ( (  *    /  | | | |  \\\\ *  |       |    *  ')
-print('  o  | | | |  o         ) ) )     O   | | | |   O    |  | |  |     ')
-print("     '_' '_'        *  >+++°>         |_| |_|        |_______|   *        ")
