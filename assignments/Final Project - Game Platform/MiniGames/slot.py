@@ -121,4 +121,4 @@ class SlotGame:
 
         return 0
 
-# Inspiration and Credits to:
+# Inspiration and Credits to: https://youtu.be/f5J3YiZ3XX8?si=PByLyPTSUx4nM1N8
