@@ -100,8 +100,10 @@ class GambleGame:
         self.result = random.choice(["Heads", "Tails"])
         if guess == self.result:
             self.state["message"] = f"It's {self.result}! Good job!"
+            self.state["score"] += 1
         else:
             self.state["message"] = f"It's {self.result}. Nope, well sucks to be you!."
+            self.state["score"] -= 1
         self.result_shown = True
 
     def try_again(self):
