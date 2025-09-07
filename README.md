@@ -1,32 +1,9 @@
 # README by Jannes Schmidt
-## TechBasics 1
+## TechBasics 1 Final Assignment
 
-This is the repository of **Jannes Schmidt**, which has been created for the studies at Hamburg Media School.
-Here **weekly Assignments** will be uploaded and changes will be understandably noted down in the commits.
+After trying very often to upload / push my code and having encountered at least 7 different kinds of error messages, I finally did it.
+However, I do not like the transfer of the entire commit history.
 
-_One will be able to observe the development of my programming skills and all the suffering that comes with it._
+I enjoyed the process. Especially since I was able to integrate previous code and improve it.
 
-For example the attempt to remove the commits by moving everything to another repository.
-_Spoiler... It did not work._ 🥲
-
-
-
-
-
-
-
-
-
-
-
-### Congrats!!! You've reached the end. Here is your reward:
-## New Memes below
-![Meme](https://preview.redd.it/amitestingthiscode-v0-7jvo88ybivyd1.jpeg?auto=webp&s=f7321d2790e48bc73522a86a67dcdadb29ba8883)
-
-
-
-
-![meme3](https://media.licdn.com/dms/image/v2/D4D22AQHSOxiuIdwJBA/feedshare-shrink_800/feedshare-shrink_800/0/1691820576884?e=2147483647&v=beta&t=j7kM9z2mGxReJ3c7qJY-U04F6mIMvsTDSRsAPKCdpVg)
-
-
-![Meme2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BsdIWCP4iGn_7DljDMzE6gp2mNND_oiOMaS4SfJmsQ&s&ec=72940542)
+I highly recommend changing the DEBUG mode at least once, since I added extra music for that.
