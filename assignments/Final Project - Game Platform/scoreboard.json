@@ -1,0 +1,30 @@
+{
+  "admin#99": {
+    "display_name": "Admin",
+    "age": 99,
+    "score": 7,
+    "tries": 14,
+    "last": "2025-09-06T23:16:09.206960"
+  },
+  "jannes#33": {
+    "display_name": "jannes",
+    "age": 21,
+    "score": 999,
+    "tries": 1,
+    "last": "Secret"
+  },
+  "jannes#21": {
+    "display_name": "definitely_not_jannes",
+    "age": 21,
+    "score": -9,
+    "tries": 4,
+    "last": "Never happened"
+  },
+  "James_Bond#007": {
+    "display_name": "James Bond",
+    "age": 7,
+    "score": 7,
+    "tries": 1,
+    "last": "Classified"
+  }
+}
